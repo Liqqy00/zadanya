@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Shadows Into';
+    src: url('../../fonts/ShadowsIntoLight.woff2') format('woff2'),
+        url('../../fonts/ShadowsIntoLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('../../fonts/Caveat-Medium.woff2') format('woff2'),
+        url('../../fonts/Caveat-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('../../fonts/Caveat-Regular.woff2') format('woff2'),
+        url('../../fonts/Caveat-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
